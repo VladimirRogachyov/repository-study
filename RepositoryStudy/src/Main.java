@@ -3,7 +3,7 @@ public class Main {
 <<<<<<< Updated upstream
         System.out.println("... big world! My dear friend");
 =======
-        System.out.println("Hello world! My dear ...");
+        System.out.println("Hello world! My dear ... Have a nice day!");
 >>>>>>> Stashed changes
     }
 }
